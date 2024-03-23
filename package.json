@@ -10,10 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@material-tailwind/react": "^2.1.9",
+    "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.22.3"
+    "react-router-dom": "^6.22.3",
+    "typography": "^0.16.24"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",

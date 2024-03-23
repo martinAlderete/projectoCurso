@@ -31,7 +31,7 @@ export const HomePage = () => {
   }, []);
 
   return (
-    <div className="container flex flex-col justify-center items-center mx-auto px-4 py-8 gap-8 h-max">
+    <div className="container flex flex-col justify-center items-center mx-auto px-4 py-8 gap-8">
       <h1 className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-white text-3xl font-bold mb-4 font-serif">¡Bienvenido a nuestra Plataforma de Fitness y Salud!</h1>
       <div className="flex flex-wrap justify-around items-center gap-5">
         {images.map((image, index) => (
