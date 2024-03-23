@@ -5,7 +5,7 @@
 
 
 body {
-    background-image: url('gymFondo.jpg');
+    background-image: url('../public/gymFondo.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
